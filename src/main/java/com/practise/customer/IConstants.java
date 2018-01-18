@@ -1,4 +1,4 @@
-package com.tmobile.poc;
+package com.practise.customer;
 
 public class IConstants {
 	public static final String ACTIVE_STR = "Active";

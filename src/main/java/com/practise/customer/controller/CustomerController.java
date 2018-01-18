@@ -1,4 +1,4 @@
-package com.tmobile.poc.controller;
+package com.practise.customer.controller;
 
 import java.net.HttpURLConnection;
 
@@ -13,9 +13,9 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.tmobile.poc.service.CustomerInfoService;
-import com.tmobile.poc.vo.CustomerInfoVO;
-import com.tmobile.poc.vo.CustomerVO;
+import com.practise.customer.service.CustomerInfoService;
+import com.practise.customer.vo.CustomerInfoVO;
+import com.practise.customer.vo.CustomerVO;
 
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiResponse;

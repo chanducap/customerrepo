@@ -1,4 +1,4 @@
-package com.tmobile.poc.repository;
+package com.practise.customer.repository;
 
 
 	import javax.transaction.Transactional;
@@ -11,7 +11,7 @@ package com.tmobile.poc.repository;
 
 	import org.springframework.stereotype.Repository;
 
-	import com.tmobile.poc.vo.CustomerVO;
+import com.practise.customer.vo.CustomerVO;
 
 	@Repository
 	public interface CustomerDAORepository extends CrudRepository<CustomerVO, String>  {

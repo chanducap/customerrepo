@@ -1,10 +1,10 @@
-package com.tmobile.poc.service;
+package com.practise.customer.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.tmobile.poc.repository.CustomerDAORepository;
-import com.tmobile.poc.vo.CustomerVO;
+import com.practise.customer.repository.CustomerDAORepository;
+import com.practise.customer.vo.CustomerVO;
 
 @Service
 public class CustomerInfoService {

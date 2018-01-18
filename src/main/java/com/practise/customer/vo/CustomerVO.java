@@ -1,5 +1,5 @@
 
-package com.tmobile.poc.vo;
+package com.practise.customer.vo;
 
 import java.io.Serializable;
 import javax.persistence.Column;
